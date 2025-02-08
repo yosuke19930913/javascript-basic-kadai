@@ -1,6 +1,7 @@
 
-const date = new Date("2024-11-12");
+const date = new Date();
 const [month, day, year] = [
+
   date.getMonth(), 
   date.getDate(),
   date.getFullYear(),
